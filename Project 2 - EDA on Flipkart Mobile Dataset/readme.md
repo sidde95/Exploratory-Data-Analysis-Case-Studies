@@ -1,3 +1,5 @@
+# Unlocking the Secrets of Flipkart Mobile Data: A Python Data Analysis Project
+
 # About Flipkart
 
 ![image](https://github.com/sidde95/Exploratory-Data-Analysis-Case-Studies/assets/77091413/a9cb4f6b-d90a-4fb9-931d-52d2be19e271)
